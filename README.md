@@ -4,7 +4,7 @@ Overview
 
 This project focuses on analyzing customer purchase data. The dataset contains information about customer demographics, purchase details, product ratings, and more. The goal is to clean, explore, and analyze the data to extract meaningful insights and visualize them using a Power BI dashboard.
 
-Dataset
+ Dataset
 
 The dataset consists of 3,900 records and 18 columns. Each row represents a customer’s purchase, with details about the customer and the product they purchased. The columns include customer demographics, product details, purchase amount, and other relevant data such as ratings and payment methods.
 
